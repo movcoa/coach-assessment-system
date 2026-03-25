@@ -1,4 +1,7 @@
 streamlit
 fpdf2
-plotly
 pandas
+mediapipe
+opencv-python-headless
+pillow
+numpy
